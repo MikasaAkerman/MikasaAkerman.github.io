@@ -82,3 +82,10 @@
 - [x] [只有偏执狂才能生存](Books/只有偏执狂才能生存.html)
 - [ ] [自卑与超越](Books/自卑与超越.html)
 - [x] [男人来自火星，女人来自金星](Books/男人来自火星，女人来自金星.html)
+- [ ] 重构
+- [ ] 医学通识讲义
+- [ ] 系统之美
+- [ ] Readings in Database Systems
+- [ ] Database Internals
+- [ ] Oracle RAC 核心技术详解
+- [ ] 谷歌方法
