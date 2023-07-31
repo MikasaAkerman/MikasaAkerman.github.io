@@ -1,61 +1,6 @@
-# 目录
-## Go
+# Books
 
-  - [channel](Go/channel.html)
-  - [goroutine](Go/goroutine.html)
-  - [map](Go/map.html)
-  - [nil](Go/nil.html)
-  - [sync.Pool](Go/sync.Pool.html)
-  - [汇编](Go/汇编.html)
-  - [基准测试](Go/基准测试.html)
-  - [垃圾回收](Go/垃圾回收.html)
-  - [切片](Go/切片.html)
-
-## DevOps
-
-- [docker](DevOps/docker.html)
-- [git批量pull代码](DevOps/git批量pull代码.html)
-- [Jenkins](DevOps/Jenkins.html)
-
-## MQ
-
-- [MQ比较](MQ/MQ比较.html)
-- [Nsq](MQ/Nsq源码阅读.html)
-
-## React
-
-  - dva
-  - roadhog
-  - antd
-
-## Python
-
-  - django
-
-## Database
-
-  - 索引
-  - join
-
-## Redis
-
-- [持久化](Redis/持久化.html)
-- [过期删除策略](Redis/过期删除策略.html)
-- [数据结构和对象](Redis/数据结构和对象.html)
-
-## 其它
-
-- [gRPC](其它/gRPC实现.html)
-- [OAuth2.0](其它/OAuth2.0.html)
-- [操作系统](其它/操作系统.html)
-- [工具链](其它/工具链.html)
-- [加密与解密](其它/加密与解密.html)
-- [算法](其它/算法.html)
-- [系统设计](其它/系统设计.html)
-
-## Books
-
-### 2021（9）
+## 2021（9）
 
 - [x] [证券分析](Books/证券分析.html)
 - [x] [影响力](Books/影响力.html)
@@ -67,7 +12,7 @@
 - [x] [只有偏执狂才能生存](Books/只有偏执狂才能生存.html)
 - [x] [男人来自火星，女人来自金星](Books/男人来自火星，女人来自金星.html)
 
-### 2022（11）
+## 2022（11）
 
 - [x] 一九八四
 - [x] 美丽新世界
@@ -81,11 +26,11 @@
 - [x] 如何创作炫人耳目的对话
 - [x] 格鲁夫给经理人的第一课
 
-### 2023 
+## 2023 
 
 - [x] [自卑与超越](Books/自卑与超越.html)
 - [x] 中国人的性格
-- [ ] 刻意练习
+- [x] 刻意练习
 - [x] 如何管理10人以下小团队
 - [x] 自控力
 - [x] 薄伽梵歌
@@ -107,9 +52,9 @@
 - [x] 论法的精神
 - [x] 书剑恩仇录
 - [ ] 飞狐外传
-- [ ] 简单的逻辑学
+- [x] 简单的逻辑学
 
-### 计划
+## 计划/阅读中
 
 - [ ] 重构
 - [ ] 医学通识讲义
